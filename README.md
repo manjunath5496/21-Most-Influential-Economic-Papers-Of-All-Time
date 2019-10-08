@@ -32,4 +32,7 @@
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Anthropology-Books/blob/master/rop(20).pdf" style="text-decoration:none;">Do Stock Prices Move Too Much to be Justified by Subsequent Changes in Dividends?</a></b></li> 
   
+  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Anthropology-Books/blob/master/rop(21).pdf" style="text-decoration:none;">Capital Theory and Investment Behavior</a></b></li> 
+  
   </ul>
